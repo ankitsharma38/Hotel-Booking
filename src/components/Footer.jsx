@@ -76,7 +76,7 @@ const Footer = ({ isDarkMode }) => {
       {/* Footer Bottom */}
       <div className="text-center mt-10 border-t border-gray-300 pt-6">
         <p className="text-sm text-gray-600">
-          Copyright © 2022 Lamabooking. All rights reserved.
+          Copyright © 2024 Ankit Sharma. All rights reserved.
         </p>
       </div>
     </div>
